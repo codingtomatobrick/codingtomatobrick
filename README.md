@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @codingtomatobrick
+- 👀 I’m interested in all things Python
+- 🌱 I’m currently learning Python and Cloud computing fundamentals
+- 💞️ I’m looking to collaborate on anything!
